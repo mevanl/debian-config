@@ -1,0 +1,8 @@
+nala
+kitty
+bspwm
+polybar
+picom
+rofi
+sxhkd
+nitrogen
